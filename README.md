@@ -1,0 +1,1 @@
+# simple-shopify-tracking-script
